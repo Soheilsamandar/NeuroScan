@@ -1,4 +1,8 @@
-```gitignore
+# YOLO model weights
+*.pt
+
+# Training outputs
+runs/
 # Ignore virtual environment
 .venv/
 venv/
@@ -13,4 +17,3 @@ __pycache__/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
-```
