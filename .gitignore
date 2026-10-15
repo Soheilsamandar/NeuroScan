@@ -1,0 +1,16 @@
+```gitignore
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+```
