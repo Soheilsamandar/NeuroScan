@@ -610,19 +610,6 @@ python src/train.py
 ```bash
 python src/predict.py
 ```
-
-### Evaluate
-
-```bash
-python src/evaluate.py
-```
-
-### Confidence Test
-
-```bash
-python src/confidence_test.py
-```
-
 ---
 
 ## 📚 Project Documentation
